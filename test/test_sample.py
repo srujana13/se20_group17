@@ -1,4 +1,4 @@
-def inc(x):
+def sqr(x):
     return x * x
 
 
